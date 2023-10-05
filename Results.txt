@@ -1,0 +1,10 @@
+Results from Absolute Correlation Coefficients w/ 'Price
+
+Price          1.000000
+Age            0.868083
+Weight         0.612295
+Mileage        0.596340
+Horse Power    0.358396
+Name: Price, dtype: float64
+['Age', 'Weight', 'Mileage', 'Horse Power']
+
